@@ -1,0 +1,12 @@
+1.ID  -> remove
+2.Gender = category
+3. Married = Boolean
+4. Education= category
+5. Self_employ = boolean
+6. ApplicantIncome = number
+7. Co-ApplicantIncome = number
+8. Loan amount = number
+9. loan amount term = category
+10. credit history = boolean
+11. property area = category
+
